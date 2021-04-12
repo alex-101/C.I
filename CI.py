@@ -1,4 +1,4 @@
-#CI.py by Alexplazz.
+#CI.py by SetAsync.
 letters = [
 "a",
 "b",
